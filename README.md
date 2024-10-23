@@ -35,6 +35,7 @@ This specialization dives deep into **Natural Language Processing (NLP)**—the 
 
 
 # 📒 Course 1: Natural Language Processing with Classification and Vector Spaces
+![](Course_01_Certificate.jpg)
 
 ### 🛠️ What I Worked On:
 
