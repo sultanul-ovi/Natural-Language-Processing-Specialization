@@ -22,7 +22,6 @@ def get_word_tag(line, vocab):
             # Handle unknown words
             word = assign_unk(word)
         return word, tag
-    return None 
 
 
 def preprocess(vocab, data_fp):
@@ -54,10 +53,10 @@ def preprocess(vocab, data_fp):
             else:
                 orig.append(word.strip())
                 prep.append(word.strip())
-
-    assert(len(orig) == len(open(data_fp, "r").readlines()))
-    assert(len(prep) == len(open(data_fp, "r").readlines()))
-
+    f = open(data_fp, "r")
+    assert(len(orig) == len(f.readlines()))
+    assert(len(prep) == len(f.readlines()))
+    f.close()
     return orig, prep
 
 
