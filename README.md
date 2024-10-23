@@ -2,7 +2,7 @@
 
 ### Coursera | DeepLearning.AI | 4-Course Series on NLP 🚀
 
-This specialization dives deep into **Natural Language Processing (NLP)**—the convergence of linguistics, computer science, and AI—to transform raw text into actionable insights using **state-of-the-art algorithms**.
+This specialization dives deep into **Natural Language Processing (NLP)**—the intersection of linguistics, computer science, and AI—to transform raw text into actionable insights using **state-of-the-art algorithms**.
 
 ---
 
@@ -38,7 +38,7 @@ This specialization dives deep into **Natural Language Processing (NLP)**—the 
 
 # 📒 Course 1: Natural Language Processing with Classification and Vector Spaces
 
-![](Course_01_Certificate.jpg)
+![Certificate](Course_01_Certificate.jpg)
 
 ### 🛠️ What I Worked On:
 
@@ -51,9 +51,13 @@ This specialization dives deep into **Natural Language Processing (NLP)**—the 
 3. **English-to-French Translation with Word Embeddings**  
    _Built a simple translation algorithm using pre-computed word embeddings and **locality-sensitive hashing** (LSH) for approximate k-nearest neighbor search._
 
+🚀 This course laid the **foundation for NLP models**, enhancing my understanding of **classification techniques** and **vector space operations**.
+
 ---
 
 # 📒 Course 2: Natural Language Processing with Probabilistic Models
+
+![Certificate](Course_02_Certificate.jpg)
 
 ### 🛠️ What I Worked On:
 
@@ -69,8 +73,50 @@ This specialization dives deep into **Natural Language Processing (NLP)**—the 
 4. **Custom Word2Vec Model with Neural Networks**  
    _Built my own **Word2Vec** implementation using a **continuous bag-of-words (CBOW)** neural network to compute word embeddings._
 
----
+🚀 This course took me deeper into **probabilistic models**, helping me master **dynamic programming**, **POS tagging**, **language modeling**, and **neural embeddings**.
 
 ---
+
+# 📒 Course 3: Natural Language Processing with Sequence Models
+
+![Certificate](Course_03_Certificate.jpg)
+
+### 🛠️ What I Worked On:
+
+1. **Sentiment Analysis of Tweets with GLoVe Word Embeddings**  
+   _Trained a neural network using **GLoVe embeddings** to classify the sentiment of tweets as positive or negative._
+
+2. **Shakespeare Text Generation Using a GRU Language Model**  
+   _Built a **Gated Recurrent Unit (GRU)**-based language model to generate synthetic Shakespeare-style text._
+
+3. **Named Entity Recognition (NER) with LSTM Networks**  
+   _Trained a **recurrent neural network (RNN)** with **LSTMs** and linear layers to recognize named entities in text._
+
+4. **Question Similarity Detection Using Siamese LSTM Models**  
+   _Developed a **Siamese LSTM model** to compare pairs of questions and detect those with the same meaning but different wording._
+
+🚀 This course gave me hands-on experience with **sequence models**, **RNNs**, **GRUs**, **LSTMs**, and **Siamese networks**—all crucial for advanced NLP tasks.
+
+---
+
+# 📒 Course 4: Natural Language Processing with Attention Models
+
+![Certificate](Course_04_Certificate.jpg)
+
+### 🛠️ What I Worked On:
+
+1. **English-to-German Translation with Encoder-Decoder Attention Model**  
+   _Implemented an **encoder-decoder model with attention** to translate complete sentences from English to German._
+
+2. **Text Summarization Using a Transformer Model**  
+   _Built a **Transformer-based model** to generate concise summaries from longer texts._
+
+3. **Question-Answering with T5 and BERT Models**  
+   _Utilized **T5** and **BERT** models to accurately perform **question-answering** tasks._
+
+4. **Chatbot Development with a Reformer Model**  
+   _Created an interactive **chatbot** using the **Reformer** model for efficient NLP processing._
+
+🚀 This course equipped me with advanced **attention-based architectures**, from **Transformers** to **T5** and **BERT**, solidifying my skills for modern NLP applications.
 
 ---
