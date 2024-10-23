@@ -1,0 +1,9 @@
+numpy
+torch
+tqdm
+spacy
+nltk
+torchvision
+transformers
+sentencepiece
+protobuf
