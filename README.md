@@ -50,4 +50,3 @@ This specialization dives deep into **Natural Language Processing (NLP)**—the 
    _Built a simple translation algorithm using pre-computed word embeddings and **locality-sensitive hashing** (LSH) for approximate k-nearest neighbor search._  
    - **Locality-Sensitive Hashing (LSH)**: Efficiently search for related words using k-NN search.
 
-🚀 This course is laying down the **foundation for NLP models**, giving me a better understanding of **classification techniques** and **vector space operations**.
