@@ -7,6 +7,7 @@ This specialization dives deep into **Natural Language Processing (NLP)**—the 
 ---
 
 ## 🌟 Key Takeaways:
+
 - Master **sentiment analysis** and **question-answering** models.
 - Build powerful tools for **language translation**, **text summarization**, and **chatbots**.
 - Gain expertise in **machine learning** and **deep learning** techniques for NLP.
@@ -14,6 +15,7 @@ This specialization dives deep into **Natural Language Processing (NLP)**—the 
 ---
 
 ## 🏗️ Applied Projects Overview:
+
 1. **Logistic Regression** & **Naïve Bayes**  
    _Sentiment analysis, analogy completion, language translation, and nearest neighbor search._
 2. **Hidden Markov Models** & **Embeddings**  
@@ -26,6 +28,7 @@ This specialization dives deep into **Natural Language Processing (NLP)**—the 
 ---
 
 ## 🧑‍🏫 Taught by Industry Experts:
+
 - **Younes Bensouda Mourri**  
   _Stanford AI Instructor & Co-creator of the Deep Learning Specialization._
 - **Łukasz Kaiser**  
@@ -33,21 +36,41 @@ This specialization dives deep into **Natural Language Processing (NLP)**—the 
 
 ---
 
-
 # 📒 Course 1: Natural Language Processing with Classification and Vector Spaces
+
 ![](Course_01_Certificate.jpg)
 
 ### 🛠️ What I Worked On:
 
 1. **Sentiment Analysis with Logistic Regression & Naïve Bayes**  
-   _Classified tweets to determine positive or negative sentiment using two classic ML techniques._  
-   - **Sentiment Analysis**: Predict if a tweet has positive or negative sentiment.
+   _Classified tweets to determine positive or negative sentiment using two classic ML techniques._
 
 2. **Vector Space Models & PCA for Word Relationships**  
-   _Explored relationships between words using word embeddings and applied **PCA** to reduce dimensionality and visualize them._  
-   - **PCA (Principal Component Analysis)**: Visualize relationships in lower-dimensional space.
+   _Explored relationships between words using word embeddings and applied **PCA** to reduce dimensionality and visualize them._
 
 3. **English-to-French Translation with Word Embeddings**  
-   _Built a simple translation algorithm using pre-computed word embeddings and **locality-sensitive hashing** (LSH) for approximate k-nearest neighbor search._  
-   - **Locality-Sensitive Hashing (LSH)**: Efficiently search for related words using k-NN search.
+   _Built a simple translation algorithm using pre-computed word embeddings and **locality-sensitive hashing** (LSH) for approximate k-nearest neighbor search._
 
+---
+
+# 📒 Course 2: Natural Language Processing with Probabilistic Models
+
+### 🛠️ What I Worked On:
+
+1. **Auto-Correct Algorithm with Minimum Edit Distance & Dynamic Programming**  
+   _Developed a basic spell checker using **minimum edit distance** techniques combined with **dynamic programming** for optimization._
+
+2. **Part-of-Speech (POS) Tagging with the Viterbi Algorithm**  
+   _Implemented **Viterbi Algorithm** to tag words with their parts of speech—an essential task in **computational linguistics**._
+
+3. **Auto-Complete Algorithm Using N-gram Language Model**  
+   _Created a smarter **auto-complete** system leveraging an **N-gram language model** to predict the next word in a sequence._
+
+4. **Custom Word2Vec Model with Neural Networks**  
+   _Built my own **Word2Vec** implementation using a **continuous bag-of-words (CBOW)** neural network to compute word embeddings._
+
+---
+
+---
+
+---
