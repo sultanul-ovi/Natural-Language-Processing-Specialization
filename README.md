@@ -33,4 +33,21 @@ This specialization dives deep into **Natural Language Processing (NLP)**—the 
 
 ---
 
-🔥 This is the **future of AI**. Let's build it with **NLP**! 🔥
+
+# 📒 Course 1: Natural Language Processing with Classification and Vector Spaces
+
+### 🛠️ What I Worked On:
+
+1. **Sentiment Analysis with Logistic Regression & Naïve Bayes**  
+   _Classified tweets to determine positive or negative sentiment using two classic ML techniques._  
+   - **Sentiment Analysis**: Predict if a tweet has positive or negative sentiment.
+
+2. **Vector Space Models & PCA for Word Relationships**  
+   _Explored relationships between words using word embeddings and applied **PCA** to reduce dimensionality and visualize them._  
+   - **PCA (Principal Component Analysis)**: Visualize relationships in lower-dimensional space.
+
+3. **English-to-French Translation with Word Embeddings**  
+   _Built a simple translation algorithm using pre-computed word embeddings and **locality-sensitive hashing** (LSH) for approximate k-nearest neighbor search._  
+   - **Locality-Sensitive Hashing (LSH)**: Efficiently search for related words using k-NN search.
+
+🚀 This course is laying down the **foundation for NLP models**, giving me a better understanding of **classification techniques** and **vector space operations**.
