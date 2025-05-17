@@ -14,7 +14,7 @@ This specialization dives deep into **Natural Language Processing (NLP)**—the 
 
 ---
 
-## 🏗️ Applied Projects Overview:
+## 🏗️ Applied Projects Overview
 
 1. **Logistic Regression** & **Naïve Bayes**  
    _Sentiment analysis, analogy completion, language translation, and nearest neighbor search._
@@ -27,7 +27,7 @@ This specialization dives deep into **Natural Language Processing (NLP)**—the 
 
 ---
 
-## 🧑‍🏫 Taught by Industry Experts:
+## 🧑‍🏫 Taught by Industry Experts
 
 - **Younes Bensouda Mourri**  
   _Stanford AI Instructor & Co-creator of the Deep Learning Specialization._
