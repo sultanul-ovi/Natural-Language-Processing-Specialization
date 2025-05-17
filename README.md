@@ -4,6 +4,7 @@
 
 This specialization dives deep into **Natural Language Processing (NLP)**—the intersection of linguistics, computer science, and AI—to transform raw text into actionable insights using **state-of-the-art algorithms**.
 
+![Certificate](Course_Certificate.jpg)
 ---
 
 ## 🌟 Key Takeaways:
